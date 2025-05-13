@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java and C#
 - 📫 How to reach me pedrohbergara@gmail.com
 
-<!---
-B3rg4r4/B3rg4r4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHbergara&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHbergara&layout=donut-vertical&icons=true&theme=radical)](https://github.com/PedroHbergara/github-readme-stats)
